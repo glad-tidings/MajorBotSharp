@@ -1,0 +1,2 @@
+# MajorBotSharp
+MajorBot Auto Farm
